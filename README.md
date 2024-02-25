@@ -12,10 +12,13 @@ technology that i use :
 - Axios
 
 to use this code, first :
+
 git clone https://github.com/Fakhry224/Cat-s-Fact-Simple-Website.git
 
 to make sure all the libraries and packages are installed, you can use
+
 npm i
 
 and to start the program you can use
+
 node index.js
